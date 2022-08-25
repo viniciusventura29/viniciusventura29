@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusventura29&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusventura29" /> </p>
 
-- 🔭 I’m currently working on **Medium2idk**
+- 🔭 I’m currently working on **Bank_app**
 
 - 🌱 I’m currently learning **Backend and Docker**
 
