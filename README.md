@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Open-sources projects**
 
-- 🤝 I’m looking for help with **Docker and Heroku**
+- 🤝 I’m looking for help with **Docker**
 
-- 💬 Ask me about **React, JavaScript, Html, Css**
+- 💬 Ask me about **React, JavaScript, Html, Css, Django**
 
 - 📫 How to reach me **viniciusventura29@gmail.com**
 
