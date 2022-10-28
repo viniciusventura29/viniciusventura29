@@ -25,4 +25,4 @@
 
 <p><img align="center" width="455" src="https://github-readme-stats.vercel.app/api?username=viniciusventura29&show_icons=true&locale=en&theme=nord" alt="viniciusventura29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusventura29&theme=nord" alt="viniciusventura29" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusventura29&theme=nord" alt="viniciusventura29" /></p>
