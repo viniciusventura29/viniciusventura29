@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/vini-ventura29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vini-ventura29" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusventura29&layout=compact&langs_count=8&theme=nord&hide=java" alt="viniciusventura29" /></p>
+<p><img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusventura29&layout=compact&langs_count=8&theme=nord&hide=java" alt="viniciusventura29" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusventura29&show_icons=true&locale=en&theme=nord" alt="viniciusventura29" /></p>
+<p><img align="center" width="455" src="https://github-readme-stats.vercel.app/api?username=viniciusventura29&show_icons=true&locale=en&theme=nord" alt="viniciusventura29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusventura29&theme=nord" alt="viniciusventura29" /></p>
