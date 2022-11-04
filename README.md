@@ -4,15 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusventura29&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusventura29" /> </p>
 
-- 🔭 I’m currently working on **Bank_app**
-
-- 🌱 I’m currently learning **Backend and Docker**
-
 - 👯 I’m looking to collaborate on **Open-sources projects**
-
-- 🤝 I’m looking for help with **Docker**
-
-- 💬 Ask me about **React, JavaScript, Html, Css, Django**
 
 - 📫 How to reach me **viniciusventura29@gmail.com**
 
