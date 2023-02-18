@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **viniciusventura29@gmail.com**
 
-- 💬 Ask me about **React, JavaScript, Html, Css, Django**
+- 💬 Ask me about **React, TypeScript, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
