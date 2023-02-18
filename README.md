@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
 <h3 align="center">A passionate junior developer from Brazil</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusventura29&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusventura29" /> </p>
 
