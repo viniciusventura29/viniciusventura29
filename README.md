@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
-<h3 align="center">A passionate junior developer from Brazil</h3>
+<h3 align="center">A passionate web developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusventura29&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusventura29" /> </p>
+I like:
+- Typescript fullstack
+- Web Development
+- Develop solutions for real problems
 
-- 👯 I’m looking to collaborate on **Open-sources projects**
-
-- 📫 How to reach me **viniciusventura29@gmail.com**
-
-- 💬 Ask me about **React, TypeScript, Node**
+I am very curious about:
+- Software architecture
+- Functional programming
+- A lot of web frameworks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +18,6 @@
 <br>
 
 <div>
-<p><img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusventura29&layout=compact&langs_count=8&theme=nord&hide=java" alt="viniciusventura29" /></p>
-
-<p><img width="455" src="https://github-readme-stats.vercel.app/api?username=viniciusventura29&show_icons=true&locale=en&theme=nord" alt="viniciusventura29" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusventura29&theme=nord" alt="viniciusventura29" /></p>
 </div>
