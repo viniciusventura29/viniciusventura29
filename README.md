@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-I like:
+I like ❤️:
 - Typescript fullstack
 - Web Development
 - Develop solutions for real problems
 
-I am very curious about:
+I am very curious about 📚:
 - Software architecture
 - Functional programming
 - A lot of web frameworks
