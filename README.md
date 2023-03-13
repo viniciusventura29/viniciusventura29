@@ -5,6 +5,7 @@ I like ❤️:
 - Typescript fullstack
 - Web Development
 - Develop solutions for real problems
+- Study about software arquitechture
 
 I am very curious about 📚:
 - Software architecture
