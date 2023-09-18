@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-I like ❤️:
+I ❤️:
 - Typescript fullstack
+- Golang
 - Web Development
-- Develop solutions for real problems
 - Study about software arquitechture
 
 I am very curious about 📚:
