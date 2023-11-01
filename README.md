@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
 
 I ❤️:
 - Typescript fullstack
