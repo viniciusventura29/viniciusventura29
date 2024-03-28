@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius Ventura</h1>
 
 I ❤️:
-- Typescript fullstack
 - Golang
 - Web Development
 - Study about software arquitechture
